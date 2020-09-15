@@ -1,1 +1,1 @@
-java -jar slave.jar -jnlpUrl http://168.154.220.40:8080/jenkins/computer/ECO_DEV/slave-agent.jnlp -secret ccc8d7a7890eddb3bb7ef3d8d222e4ea622697406b2505ba105bae49f469c28c
+java -jar slave.jar -jnlpUrl http://168.154.220.40:8080/jenkins/computer/ECO_PRD/slave-agent.jnlp -secret ccc8d7a7890eddb3bb7ef3d8d222e4ea622697406b2505ba105bae49f469c28c
